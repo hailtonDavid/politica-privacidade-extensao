@@ -1,8 +1,8 @@
-**Política de Privacidade para a Extensão [Nome da Sua Extensão]**
+**Política de Privacidade para a Extensão Projudi: Baixar Todos PDFs com Selo**
 
 **Última atualização:** [Data da Última Atualização, ex: 24 de agosto de 2025]
 
-Agradecemos por usar a nossa extensão para o Google Chrome, [Nome da Sua Extensão] ("Extensão"). Esta Política de Privacidade descreve quais informações coletamos e como as utilizamos.
+Agradecemos por usar a nossa extensão para o Google Chrome, Projudi: Baixar Todos PDFs com Selo ("Extensão"). Esta Política de Privacidade descreve quais informações coletamos e como as utilizamos.
 
 **1. Informações que Coletamos**
 
@@ -29,6 +29,6 @@ Levamos a segurança dos seus dados a sério. Os dados salvos localmente são pr
 
 **5. Contato**
 
-Se você tiver qualquer dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: [Seu Email de Contato]
+Se você tiver qualquer dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: [hailton.david@gmail.com]
 
-**Desenvolvedor:** [Seu Nome ou Nome da Empresa]
+**Desenvolvedor:** [Ministério Publico de Goiás - MPGO]
